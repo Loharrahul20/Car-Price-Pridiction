@@ -8,4 +8,4 @@ https://car-price-prediction-08.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/38045608/108623914-9c707000-7467-11eb-99a4-a4036d1f844d.png)
 
-
+![image](https://user-images.githubusercontent.com/38045608/108623976-eb1e0a00-7467-11eb-9166-d3c10f467386.png)
