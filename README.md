@@ -6,3 +6,6 @@ Check the final project on below link:-
 https://car-price-prediction-08.herokuapp.com/
 
 
+![image](https://user-images.githubusercontent.com/38045608/108623914-9c707000-7467-11eb-99a4-a4036d1f844d.png)
+
+
